@@ -19,6 +19,7 @@
            header("location: fstpage.php");  
         }  
         else{  
-            echo "<h1> Login failed. Invalid username or password.</h1>";  
+            // echo "<h1> Login failed. Invalid username or password.</h1>";  
+            echo "<h1 style='color: #ff0000; margin-top: 50px;'>Login failed. Invalid username or password.</h1>";
         }     
 ?> 

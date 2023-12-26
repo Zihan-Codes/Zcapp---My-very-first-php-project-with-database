@@ -1,19 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>register page</title>
-</head>
-<body>
-<center><h1>Register page</h1></center><br><br>
-<form action="reg.php" method="post">
-	username: <input type="text" name="username" placeholder="username"><br>
-	email: <input type="text" name="email" placeholder="email"><br>
-	password: <input type="text" name="password" placeholder="password">
-	<input type="submit" name="submit" value="submit">
-</form>
-</body>
-</html> -->
 
 <!DOCTYPE html>
 <html lang="en">

@@ -1,18 +1,3 @@
-<!-- 
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>zihan login app</title>
-</head>
-<body>
-	
-	<center><h1>This is the front page 1</h1></center><br><br>
-	<center><a href="register.php"><button>Register</button></a></center><br><br>
-	<center><a href="login.php"><button>login</button></a></center>
-
-</body>
-</html> -->
 
 <!DOCTYPE html>
 <html lang="en">
